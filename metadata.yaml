@@ -1,0 +1,40 @@
+_repo: English-Fairy-Tales_7439
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Jacobs, Joseph
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2470'
+    url: http://www.gutenberg.org/2009/agents/2470
+description: ''
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Folklore -- England'
+- !lcc 'GR'
+- !lcsh 'Fairy tales -- England'
+- GITenberg
+tableOfContents: Tom tit tot -- The three sillies -- The rose-tree -- The old woman
+  and her pig -- How jack went to seek his fortune -- Mr. Vinegar -- Nix nought nothing
+  -- Jack Hannaford -- Binnorie -- Mouse and mouser -- Cap o' rushes -- Teeny-tiny
+  -- Jack and the beanstalk -- The story of the three little pigs -- The master and
+  his pupil -- Titty mouse and tatty mouse -- Jack and his golden snuff-box -- The
+  story of the three bears -- Jack the giant-killer -- Henny-penny -- Childe Rowland
+  -- Molly Whuppie -- The red ettin -- The golden arm -- The history of Tom Thumb
+  -- Mr. Fox -- Lazy Jack -- Johnny-cake -- Earl Mar's daughter -- Mr. Miacca -- Whittington
+  and his cat -- The strange visitor -- The laidly worm of Spindleston Heugh -- The
+  cat and the mouse -- The fish and the ring -- The magpie's nest -- Kate Crackernuts
+  -- The cauld lad of Hilton -- The ass, the table, and the stick -- Fairy ointment
+  -- The well of the world's end -- Master of all masters -- The three heads of the
+  well.
+title: English Fairy Tales
+url: http://www.gutenberg.org/ebooks/7439
